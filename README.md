@@ -1,9 +1,5 @@
-# Earthquake_Prediction
-Predict time left until an earthquake strikes. Technologies used: Python, MongoDB, SparkSQL and SparkML
-
-
-LANL Earthquake Prediction
-(group project by  Anush Kocharyan, Jyoti Prakash Maheswari, Wenkun Xiao and  Viviana Marquez) 
+# LANL Earthquake_Prediction
+(group project by  Anush Kocharyan, Jyoti Prakash Maheswari, Wenkun Xiao and  Viviana Marquez) <br>
 
 For this project, we used data provided by Los Alamos National Laboratory for a [Kaggle competition](https://www.kaggle.com/c/LANL-Earthquake-Prediction) to predict time
 remaining before laboratory earthquakes occur from real-time seismic data.
